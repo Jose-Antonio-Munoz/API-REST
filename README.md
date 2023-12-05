@@ -1,5 +1,6 @@
-<h1>API-REST</h1>
-Este es un backend que requiere registrarse como usuario para poder interartuar con los end-point definidos, para la autenticacion de los usuarios se usa JWT que son generados en el correspondiente end-point, los usuarios previameente registrados y con un token pueden realizar acciones de ver, crear, actualizar y eliminar publicaciones, ademas de poder ver comentarios, crearlos, actualizarlos y eliminarlos, como base de datos se usa Mongodb, y esta contruido considerando la arquitectura REST (Este proyecto esta sujeto a cambios).
+# API-REST
+
+Este es un backend que requiere registrarse como usuario para poder interartuar con los end-point definidos, para la autenticacion de los usuarios se usa JSON WEB TOKEN que son generados en el correspondiente end-point, los usuarios previameente registrados y con un token pueden realizar acciones de ver, crear, actualizar y eliminar publicaciones, ademas de poder ver comentarios, crearlos, actualizarlos y eliminarlos, como base de datos se usa Mongodb, y esta contruido considerando la arquitectura REST (Este proyecto esta sujeto a cambios).
 
 Pre-requisitos 📋
 Para poder ejecutar este proyecto necesitas tener disponible en tu PC Node JS, MongoDB y npm para poder descargar las dependencias necesarias y poder ejecutar el proyecto en un servidor local.
